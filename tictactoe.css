@@ -1,0 +1,71 @@
+body{
+  background-color:rgba(0,0,0,0.9);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+  font-size: 100px;
+  font-family: "Arial";
+}
+
+.row1{
+  position: relative;
+  width: 360px;
+  height: 120px;
+
+  display:flex;
+  justify-content:center;
+}
+
+.row2{
+  position: relative;
+  width: 360px;
+  height: 120px;
+
+  display:flex;
+  justify-content:center;
+}
+
+.row3{
+  position: relative;
+  width: 360px;
+  height: 120px;
+
+  display:flex;
+  justify-content:center;
+}
+
+.lab{
+  background-color: rgba(255,255,255,00.5);
+
+  border: solid 0.5px ;
+  border-radius: 10%;
+
+  width: 33%;
+  margin: 1%;
+
+
+}
+
+.lab:hover {
+  background-color: rgba(255,255,255,1);
+}
+
+#test {
+  position: relative;
+  height: 120px;
+  width: 360px;
+
+  background-color: white;
+  border-radius: 10px;
+
+  font-size: 25px;
+  font-family: "Arial";
+
+  margin:  0% 0 1% 0;
+}
+section{
+  position: relative;
+  border: solid 5px ;
+  border-radius: 10px;
+}
